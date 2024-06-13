@@ -13,3 +13,7 @@ sortNumber(number);
 console.log(number);
 
 //jishou first commit
+
+//jiyu first commit
+
+const age = 1;
