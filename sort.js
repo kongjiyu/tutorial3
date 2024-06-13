@@ -16,4 +16,4 @@ console.log(number);
 
 //jiyu first commit
 
-const age = 1;
+const age = 2;
